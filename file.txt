@@ -5,5 +5,7 @@ linux
 
 dsalmvd;lkv
 vmvdkv
-mv,dv
+mv,dvlds;lvd
+mvkdb
+v
 aws azure
